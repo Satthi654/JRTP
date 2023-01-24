@@ -5,6 +5,10 @@ public class Demo{
 	Statement st;
 	ResultSet rs;
 	
+	public static void main(String[] args){
+		
+	}
+	
 	public void init(){
 		try
 		{
