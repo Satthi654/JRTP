@@ -7,4 +7,8 @@ public class Student{
 	public void saveMethod(){
 		
 	}
+	public void saveMethod1(){
+		System.out.pritln("git stash example");
+	}
+	
 }
