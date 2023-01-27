@@ -21,4 +21,8 @@ public class Demo{
 		}
 	}
 	
+	public void gitTestMethod(){
+		FaceseMessage message=new FacesMessage("SUCCESS","Test Performed Sucessfully");
+		FacesContext.getCurrentInstance().addMessage(null, message);
+	}
 }
